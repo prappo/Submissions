@@ -2,20 +2,20 @@
 #Bot Legal
 
 
-        <h3>Privacy Policy of the <b>Zubehor</b> Facebook app</h3>
+        #Privacy Policy of the <b>Zubehor</b> Facebook app
         This Application collects some Personal Data from its Users.
-        <h3>Data Controller and Owner</h3>
-        Prappo Prince,<br>
-        prappo.prince@outlook.com<br>
-        <h3>Types of Data collected</h3>
+        #Data Controller and Owner
+        Prappo Prince,
+        prappo.prince@outlook.com
+        #Types of Data collected
         The owner does not provide a list of Personal Data types collected.
         Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.
         The Personal Data may be freely provided by the User, or collected automatically when using this Application.
         Any use of Cookies - or of other tracking tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.
         Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
         Users are responsible for any Personal Data of third parties obtained, published or shared through this Application and confirm that they have the third party's consent to provide the Data to the Owner.
-        <h3>Mode and place of processing the Data</h3>
-        <h3>Methods of processing</h3>
+        #Mode and place of processing the Data
+        #Methods of processing
         The Data Controller processes the Data of Users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
         The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time.
         Place
