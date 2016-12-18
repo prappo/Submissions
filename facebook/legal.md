@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Bot Legal</title>
-</head>
-<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-<body>
-<div class="container">
+
+#Bot Legal
+
 
         <h3>Privacy Policy of the <b>Zubehor</b> Facebook app</h3>
         This Application collects some Personal Data from its Users.
@@ -69,7 +64,3 @@
         Show the simplified Privacy Policy
         Privacy Policy generated with iubenda
         Generate yours
-
-    </div>
-</body>
-</html>
