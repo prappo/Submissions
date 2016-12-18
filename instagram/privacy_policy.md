@@ -6,7 +6,7 @@ The purpose of the My #OptimusPrime app is to discover Instagram images that sho
 Social media plays a crucial role in documenting the unique cultural history of our institution. For that reason we are working to include relevant social media items in our University archives. All approved images tagged #NCSULibray will be included in the official North Carolina State University archives. Images selected for inclusion in the archives will be harvested by OptimusPrime so that the archival digital object will reside on permanent OptimusPrime storage infrastructure and not on Instagram servers.
 
 ## Removal of Images
-Users may contact OptimusPrime at any time to request that the image be removed from our collections. Requesting that the photo be removed will remove it from both the My #OptimusPrime site as well as the university archives. If you have posted a photo that you would like removed simply send an email to tdstoffe@ncsu.edu with your Instagram username and we will remove your images from our collections.
+Users may contact OptimusPrime at any time to request that the image be removed from our collections. Requesting that the photo be removed will remove it from both the My #OptimusPrime site as well as the university archives. If you have posted a photo that you would like removed simply send an email to prappo.prince@gmail.com with your Instagram username and we will remove your images from our collections.
 
 ## Terms of Use
 The public is encouraged to contribute to My #OptimusPrime often by tagging multiple Instagram photos with the hashtag #OptimusPrime.
