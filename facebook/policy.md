@@ -1,5 +1,5 @@
 #Bot Policy
-Privacy Policy of the <b>Assistant</b> Facebook app
+Privacy Policy of the <b>Virtual Assistant</b> Facebook app
 This Application collects some Personal Data from its Users.
 # Facebook permissions asked by this Application
 <b> pages_messaging</b>
