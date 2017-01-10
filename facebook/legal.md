@@ -2,7 +2,7 @@
 #Bot Legal
 
 
-#Privacy Policy of the <b>Zubehor</b> Facebook app
+#Privacy Policy of the <b>Virtual Assistant</b> Facebook app
         This Application collects some Personal Data from its Users.
         #Data Controller and Owner
         Prappo Prince,
